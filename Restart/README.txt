@@ -1,1 +1,2 @@
-Save your Xcode project into this folder.
+# RESTART
+Simple app with one transition and animations. It includes audios that are activated when a transition occurs.
